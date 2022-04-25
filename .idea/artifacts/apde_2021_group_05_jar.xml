@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="apde-2021-group-05:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/apde_2021_group_05_jar</output-path>
+    <root id="archive" name="apde-2021-group-05.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="apde-2021-group-05" />
+    </root>
+  </artifact>
+</component>
